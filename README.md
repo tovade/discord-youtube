@@ -1,10 +1,10 @@
 # **discord-youtube**
 
-> _Discord-youtube is an automated, simple Package, which allows you to Easily integrate to your Discord Bot a Youtube Poster._ > _This means, that it logs new Videos, or Streams and sends them to a Channel, you can define the Name, Link, User, and more!_ > _It is very fast and a scraper, so you don't need an API KEY._ > _Also it is up to Date and includes JOSH, so you can decide if you wanna use the DEFAULT, JSON DB, or SQLITE, or Mongoos, so it works on repl.it too!_
+> _Discord-youtube is an automated, simple Package, which allows you to Easily integrate to your Discord Bot a Youtube Poster._ > _This means, that it logs new Videos, or Streams and sends them to a Channel, you can define the Name, Link, User, and more!_ > _It is very fast and a scraper, so you don't need an API KEY._ > _Also it is up to Date and includes JOSH, so you can decide if you wanna use the DEFAULT, JSON DB, SQLITE or Mongoose_
 
 ### Credits
 
-Base is from Tomato's version.
+Base is from Tomato's [version](https://github.com/Tomato6966/discord-yt-poster).
 
 ## **Installation**
 
@@ -21,13 +21,13 @@ client.YTP.<Method>(<Options>); //returns -> Promise -> <OBJECT/ARRAY -- CHANNEL
 //The logging is the package doing for you, you just need to use the setChannel() function in order to set the first channel which should get listened to!
 ```
 
-## 📫 **Join our [Discord Server](https://discord.gg/FQGXbypRf8) for Support**
+## 📫 **Join our [Discord Server](https://discord.gg/h7Y8YRMXu9) for Support**
 
 ---
 
-# 🗂 **For more help view [Documentation](https://github.com/Tomato6966/discord-yt-poster/wiki)**
+# 🗂 **For more help view [Documentation](https://github.com/tovade/discord-youtube/wiki)**
 
-# [🧾 See the **Table of Content**, before you START!](https://github.com/Tomato6966/discord-yt-poster/wiki/🧾-Table-of-Content)
+# [🧾 See the **Table of Content**, before you START!](https://github.com/tovade/discord-youtube/wiki/🧾-Table-of-Content)
 
 ---
 
@@ -44,17 +44,17 @@ client.YTP.<Method>(<Options>); //returns -> Promise -> <OBJECT/ARRAY -- CHANNEL
 
 ## 🧠 **Methods**
 
-> - [**See all Methods**](https://github.com/Tomato6966/discord-yt-poster/wiki/Methods)
+> - [**See all Methods**](https://github.com/tovade/discord-youtube/wiki/Methods)
 
 ---
 
 ## 🥰 **Examples**
 
-> - [**Basic Example Bot**](https://github.com/Tomato6966/discord-yt-poster/wiki/Basic-Example-Bot)
-> - [**Example with all Commands**](https://github.com/Tomato6966/discord-yt-poster/wiki/Example-with-all-Commands)
+> - [**Basic Example Bot**](https://github.com/tovade/discord-youtube/wiki/Basic-Example-Bot)
+> - [**Example with all Commands**](https://github.com/tovade/discord-youtube/wiki/Example-with-all-Commands)
 
 ---
 
 ## 🤩 **Responses**
 
-> - [**See all Responses**](https://github.com/Tomato6966/discord-yt-poster/wiki/Responses)
+> - [**See all Responses**](https://github.com/tovade/discord-youtube/wiki/Responses)

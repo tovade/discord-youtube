@@ -31,7 +31,7 @@
   "license": "MIT",
   "dependencies": {
     "@joshdb/core": "^1.2.5",
-    "@joshdb/json": "^1.0.3",
+    "@joshdb/sqlite": "^1.1.9",
     "axios": "^0.21.1",
     "colors": "^1.4.0",
     "cron": "^1.8.2",
